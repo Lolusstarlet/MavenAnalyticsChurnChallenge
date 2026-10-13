@@ -2,4 +2,7 @@
 This is a Power BI report that shows various data transformation process, model build  and visualizations. Leveraged the amazing functionality of Key Influencer visual to see what factors are affecting the metric 'Customer Status' being analyzed. Used Field Parameters to dynamically change the measure being analysed and saved a whole lot of space. Finally, included my recommendations to increase revenue and customer retenton for the Telecoms Company. 
 (Source: IBM Cognos Analytics)
 
+<img width="2573" height="1437" alt="image" src="https://github.com/user-attachments/assets/54be6386-142d-4d84-941b-63f40773ce7f" />
+
+
 (License: Public Domain)
